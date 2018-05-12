@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16188#La-Divina-Com-dia--Purgat-riEnglish-title-is-Dante-s-Purgatorio
 gutenberg_issued: '2005-07-03'
 gutenberg_type: Text
 identifiers:
