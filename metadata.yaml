@@ -1,0 +1,35 @@
+_repo: La-Divina-Com-dia--Purgat-riEnglish-title-is-Dante-s-Purgatorio_16188
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Culos, Ermes
+    gutenberg_agent_id: '33361'
+    url: http://www.gutenberg.org/2009/agents/33361
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_issued: '2005-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16188'
+language: fur
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'La Divina Comèdia: Purgatòri
+
+  English title is Dante''s Purgatorio'
+url: http://www.gutenberg.org/ebooks/16188
